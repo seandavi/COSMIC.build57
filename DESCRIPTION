@@ -1,0 +1,11 @@
+Package: COSMIC.build57
+Type: Package
+Title: Data package containing COSMIC Build 37 data
+Version: 1.0
+Date: 2012-03-05
+Author: Sean Davis
+Maintainer: Sean Davis <seandavi@gmail.com>
+Description: This package contains two GRanges objects, one for hg19 and one from hg18.  The data comprise SNVs, indels, and some large deletions.
+Depends: GenomicRanges
+License: GPL-2
+
