@@ -3,10 +3,10 @@
 \alias{COSMIC.build57}
 \docType{package}
 \title{
-Container for COSMIC Build 37.
+Container for COSMIC Build 57.
 }
 \description{
-Container for COSMIC Build 37.
+Container for COSMIC Build 57.
 }
 \details{
 \tabular{ll}{
@@ -20,13 +20,12 @@ Date: \tab 2012-03-05\cr
 Sean Davis <seandavi@gmail.com>
 }
 \references{
-\url{http://ftp://ftp.sanger.ac.uk/pub/CGP/cosmic/data_export/}
-
-"The mutation data was obtained from the Sanger Institute Catalogue Of Somatic 
-Mutations In Cancer web site, http://www.sanger.ac.uk/cosmic 
-Bamford et al (2004) The COSMIC (Catalogue of Somatic Mutations in Cancer) database 
-and website. Br J Cancer, 91,355-358."
-
+  \url{http://ftp://ftp.sanger.ac.uk/pub/CGP/cosmic/data_export/}
+  
+  "The mutation data was obtained from the Sanger Institute Catalogue Of Somatic 
+  Mutations In Cancer web site, http://www.sanger.ac.uk/cosmic 
+  Bamford et al (2004) The COSMIC (Catalogue of Somatic Mutations in Cancer) database 
+  and website. Br J Cancer, 91,355-358."
 }
 \keyword{ package }
 \seealso{
